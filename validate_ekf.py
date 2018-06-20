@@ -224,10 +224,10 @@ if __name__ == '__main__':
     # validate_localization_EKF()
 
     ## Subcomponent validation
-    validate_localization_transition_model()
+    # validate_localization_transition_model()
     # validate_localization_map_line_to_predicted_measurement()
     # validate_localization_associate_measurements()
 
     ### PROBLEM 2
 
-    # validate_SLAM_EKF()
+    validate_SLAM_EKF()
